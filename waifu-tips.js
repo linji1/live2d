@@ -1,6 +1,6 @@
 /*!
  * Live2D Widget
- * https://github.com/stevenjoezhang/live2d-widget
+ * https://github.com/linji1/live2d
  */ !(function () {
     'use strict';
     function e(e) {

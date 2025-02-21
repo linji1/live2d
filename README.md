@@ -22,6 +22,7 @@
 - 在 [米米的博客](https://zhangshuqiao.org) 的左下角可查看效果
 - [demo/demo.html](https://live2d-widget.pages.dev/demo/demo)，展现基础功能
 - [demo/login.html](https://live2d-widget.pages.dev/demo/login)，仿 NPM 的登陆界面
+- [网页添加 Live2D 看板娘 - FGHRSH 的博客](https://www.fghrsh.net/post/123.html)
 
 ## 使用
 
